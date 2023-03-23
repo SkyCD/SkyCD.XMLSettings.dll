@@ -6,7 +6,7 @@
 
 SkyCD.XMLSettings.dll is a library that allows you to read and write settings in XML format. It provides the following class:
 
-## XMLSettings
+#### XMLSettings
 
 The XMLSettings class provides the following methods:
 
